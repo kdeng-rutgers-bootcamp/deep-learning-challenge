@@ -2,7 +2,7 @@
 
 ### This repository contains a deep learning analysis of charities funded by the Alphabet Soup organization.
 
-The original analysis is contained in the AlphabetSoup.ipynb file. Optimization is contained in the AlphabetSoup_Optimization.ipynb file. Models from both files are contained in the Resources folder in h5 files with the same respective names. Images of model summaries are also included in the Resources folder.
+The original analysis is contained in the AlphabetSoup.ipynb file. Optimization is contained in the AlphabetSoup_Optimization.ipynb file. Models from both files are contained in the Resources folder in h5 files with the same respective names.
 
 
 #### Purpose
